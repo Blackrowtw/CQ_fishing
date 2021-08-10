@@ -1,3 +1,3 @@
-# CQ_fishing
-Learn python and git
-Hello World!
+hello world
+
+Learning python ?
